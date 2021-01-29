@@ -1,0 +1,28 @@
+.filter-section .items {
+    margin-bottom: 20px;
+}
+.filter-section .items .item.square {
+    text-align: center;
+    width: 93px;
+    float: left;
+}
+.filter-section .items.expanded .item {
+    display: block;
+}
+.filter-section .items .item {
+    position: relative;
+    height: 71px;
+    margin: 3px;
+    display: block;
+    color: #858585;
+    font-size: 10px;
+    display: none;
+    transition: box-shadow .18s linear;
+    box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.04);
+}
+.rounded {
+    border-radius: .25rem!important;
+}
+.border {
+    border: 1px solid #dee2e6!important;
+}
