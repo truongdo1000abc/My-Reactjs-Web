@@ -1,0 +1,19 @@
+Các thư viện liên quan:
+
+- react-redux
+
+- react-router-dom
+
+- redux-thunk 
+
+- MATERIAL-UI: $ npm install @material-ui/core
+
+- React Image Lightbox: $ npm i react-image-lightbox
+
+-react-number-format: $ npm i react-number-format
+
+-draft-js: $ npm i draft-js
+
+-React Draft Wysiwyg: $ npm i react-draft-wysiwyg
+
+			
